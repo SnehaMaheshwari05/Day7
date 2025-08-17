@@ -1,7 +1,7 @@
 # Day7
 
- ##SQLite3 Analysis Project
- #Project Overview
+ ## SQLite3 Analysis Project
+ # Project Overview
 
 This project demonstrates how to use SQLite3 with Python for database operations and perform Exploratory Data Analysis (EDA) using Pandas, Matplotlib, and Seaborn.
 The dataset contains information about books, including their title, price, and copies sold.
